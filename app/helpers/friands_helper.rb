@@ -1,0 +1,2 @@
+module FriandsHelper
+end
